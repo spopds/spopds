@@ -1,5 +1,5 @@
 
-# Disciplina de Práticas do Desenvolvimento de Sistemas - IFSP São Paulo
+#Práticas do Desenvolvimento de Sistemas - IFSP São Paulo
 ### 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/IFSP_Logo.jpg/640px-IFSP_Logo.jpg" alt="IFSP Logo" width="100px" align="right">
 
